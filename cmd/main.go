@@ -10,6 +10,7 @@ import (
 	"github.com/motorheads/shop_product_service/routes"
 )
 
+// test git
 var err error
 
 func main() {
