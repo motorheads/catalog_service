@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/motorheads/shop_product_service/models"
-	"github.com/motorheads/shop_product_service/storage"
+	"github.com/motorheads/catalog_service/models"
+	"github.com/motorheads/catalog_service/storage"
 )
 
 func GetAllProducts(c *gin.Context) {

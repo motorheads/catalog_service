@@ -3,8 +3,8 @@ package storage
 import (
 	"fmt"
 
-	"github.com/motorheads/shop_product_service/config"
-	"github.com/motorheads/shop_product_service/models"
+	"github.com/motorheads/catalog_service/config"
+	"github.com/motorheads/catalog_service/models"
 )
 
 func GetAllProducts() ([]*models.Product, error) {

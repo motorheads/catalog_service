@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/motorheads/shop_product_service/controller"
+	"github.com/motorheads/catalog_service/controller"
 )
 
 func New() *gin.Engine {

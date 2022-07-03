@@ -6,8 +6,8 @@ import (
 
 	_ "github.com/lib/pq"
 
-	"github.com/motorheads/shop_product_service/config"
-	"github.com/motorheads/shop_product_service/routes"
+	"github.com/motorheads/catalog_service/config"
+	"github.com/motorheads/catalog_service/routes"
 )
 
 // test git

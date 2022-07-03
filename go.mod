@@ -1,4 +1,4 @@
-module github.com/motorheads/shop_product_service
+module github.com/motorheads/catalog_service
 
 go 1.18
 
