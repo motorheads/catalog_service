@@ -1,1 +1,1 @@
-# shop_product_service
+# catalog_service
