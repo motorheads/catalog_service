@@ -10,7 +10,6 @@ import (
 	"github.com/motorheads/catalog_service/routes"
 )
 
-// test git
 var err error
 
 func main() {
@@ -24,6 +23,6 @@ func main() {
 	defer config.DB.Close()
 
 	router := routes.New()
-	router.Run()
+	router.Run(":8080")
 
 }
